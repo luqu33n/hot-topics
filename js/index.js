@@ -1,4 +1,4 @@
-let url = "./index.html";
+let url = "./partials/home.html";
 const container = document.querySelector(".container");
 const errorContainer = document.querySelector(".error");
 const links = document.querySelectorAll("nav a");
